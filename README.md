@@ -18,7 +18,12 @@
 
 ###
 
-<p align="left">Create, assign, update, and delete tasks.<br><br>Assign tasks to specific members.<br><br>Monitor real-time task progress.<br><br>Visualize progress via bar charts and pie charts using recharts.</p>
+<ul align="left">
+  <li>Create, assign, update, and delete tasks.</li>
+  <li>>Assign tasks to specific members.</li>
+  <li>Monitor real-time task progress.</li>
+  <li>Visualize progress via bar charts and pie charts using recharts.</li>
+</ul>
 
 ###
 
