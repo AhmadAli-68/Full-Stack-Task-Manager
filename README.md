@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">1. Admin Dashboard:</h4>
+<h4 align="left">Admin Dashboard:</h4>
 
 ###
 
@@ -27,11 +27,15 @@
 
 ###
 
-<h4 align="left">2. Member Dashboard:</h4>
+<h4 align="left">Member Dashboard:</h4>
 
 ###
 
-<p align="left">View assigned tasks.<br><br>Update task status: Pending, In Progress, or Completed.<br><br>View personal task progress.</p>
+<ul align="left">
+  <li>View assigned tasks.</li>
+  <li>Update task status: Pending, In Progress, or Completed.</li>
+  <li>View personal task progress.</li>
+</ul>
 
 ###
 
@@ -39,7 +43,11 @@
 
 ###
 
-<p align="left">Bar Charts for task distribution overview.<br><br>Pie Charts for completion rate analysis.<br><br>Built using the Recharts library for clean and interactive UI visualizations.</p>
+<ul align="left">
+  <li>Bar Charts for task distribution overview.</li>
+  <li>Pie Charts for completion rate analysis.</li>
+  <li>Built using the Recharts library for clean and interactive UI visualizations.</li>
+</ul>
 
 ###
 
@@ -47,7 +55,10 @@
 
 ###
 
-<p align="left">Secure login and role-based routing.<br><br>Admin and members have different access rights and UIs.</p>
+<ul align="left">
+  <li>Secure login and role-based routing.</li>
+  <li>Admin and members have different access rights and UIs.</li>
+</ul>
 
 ###
 
