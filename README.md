@@ -66,6 +66,12 @@
 
 ###
 
-<p align="left"><strong>Frontend:</strong> React.js, Tailwind CSS, Recharts<br><br><strong>Backend:</strong> Node.js, Express.js<br><br><strong>Database:</strong> MongoDB (Mongosh)<br><br><strong>Authentication:</strong> JWT (JSON Web Tokens)<br><br>State Management: React Context API</p>
+<ul align="left">
+  <li><strong>Frontend:</strong> React.js, Tailwind CSS, Recharts</li>
+  <li><strong>Backend:</strong> Node.js, Express.js</li>
+  <li><strong>Database:</strong> MongoDB (Mongosh)</li>
+  <li><strong>Authentication:</strong> JWT (JSON Web Tokens)</li>
+  <li><strong>State Management:</strong> React Context API</li>
+</ul>
 
 ###
